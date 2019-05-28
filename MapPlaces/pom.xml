@@ -60,7 +60,7 @@
                 </descriptorRefs>
                 <archive>
                     <manifest>
-                        <mainClass>Main</mainClass>
+                        <mainClass>PlaceService</mainClass>
                     </manifest>
                 </archive>
             </configuration>
